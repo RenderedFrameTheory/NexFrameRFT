@@ -1,0 +1,25 @@
+# Core Python packages
+numpy
+scipy
+pandas
+matplotlib
+requests
+flask
+
+# GPU / acceleration (adjust version for your CUDA setup)
+cupy-cuda12x
+
+# Distributed computing
+mpi4py
+
+# Optional visualization / dashboard packages
+plotly
+dash
+dash-bootstrap-components
+
+# Optional for Jupyter notebooks (if you want interactive dev)
+notebook
+ipython
+
+# JSON / data handling (standard, but explicit)
+ujson
